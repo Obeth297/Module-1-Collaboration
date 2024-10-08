@@ -20,4 +20,5 @@ with engine.connect() as conn:
         title VARCHAR(20) PRIMARY KEY,
         author VARCHAR(30)
         year INT
+    )
     '''))
