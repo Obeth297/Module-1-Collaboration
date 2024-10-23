@@ -1,0 +1,2 @@
+The test results show that out of the two tests, one has failed because the output wasn't the expected result.
+This means that from this info, I can figure out what went wrong because I am told what result I gto instead of the expectation.
