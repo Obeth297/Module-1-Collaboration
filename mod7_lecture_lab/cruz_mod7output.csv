@@ -1,0 +1,114 @@
+,Names,Type of Candy,Cost,Candy
+0,Damien,Almond Joy,1.96,True
+1,adalynn gilman,Reeses,1.48,True
+2,Noah Papenbrock,Hershey's Special Dark Zero Sugar Chocolate Bar,2.48,True
+3,Mrwan,Snickers,1.0,False
+4,Trenton Ly,Reese's,23.87,True
+5,alexander kauffman,Almond Joy,1.48,True
+6,William Espich,Skittles,3.28,True
+7,Andres H,reeces,1.2,True
+8,Blake Tippmann,3 musketeers,1.48,True
+9,Elijah Kite,Jolly Ranchers,18.69,True
+10,Nick Schuhmacher,mints,1.5,True
+11,Kevin Nguyen,Snickers,0.98,True
+12,Chase McCarel,Milky Way,0.74,True
+13,Eja,Skittles (50 oz bag),9.98,True
+14,Sarah Martinez,Twix,0.88,True
+15,Gabriel Moore,Life savers,3.28,True
+16,brianna,Snickers,0.98,True
+17,Cathy Wise,Snicker,1.19,True
+18,alexis,Gummy Bears,1.0,True
+19,Audrey marks,heath bar,1.63,True
+20,Xayne Blair,Skittles,2.28,True
+21,Corban Saylor,3 musketeers,1.48,True
+22,Langston,Reeses,1.96,True
+23,Allan,Hershey Bar,0.88,True
+24,Kim,Reese's Chocolate,1.48,True
+25,Bryce Bland,Hersheys Candy Bar,0.88,True
+26,Troy,cookie n crème Hershey,1.48,True
+27,shaheim,Candy Corn,2.28,True
+28,jasiah waxton,"Kit Kat Minis, White Creme",2.98,True
+29,edaevion,Almond Joy,1.64,True
+30,Damien,Reece's,2.06,True
+31,adalynn gilman,Lifesavers,5.28,True
+32,Noah Papenbrock,Great Value Peach Rings,0.98,True
+33,Mrwan,Reeses take 5,2.98,True
+34,Trenton Ly,Kit Kats,9.94,True
+35,alexander kauffman,KitKat,1.48,True
+36,William Espich,Starburst,9.98,True
+37,Andres H,snickers,1.16,True
+38,Blake Tippmann,butter finger,0.98,True
+39,Elijah Kite,High chews,20.93,True
+40,Nick Schuhmacher,gum,2.99,True
+41,Kevin Nguyen,Skittles,9.98,True
+42,Chase McCarel,Twix,0.88,True
+43,Eja,Reese's (18 oz bag),4.48,True
+44,Sarah Martinez,Hershey's Cookies and Cream,0.88,True
+45,Gabriel Moore,snickers bar,1.48,True
+46,brianna,Almond Joy,0.88,True
+47,Cathy Wise,Skittles,1.19,True
+48,alexis,KitKat,1.63,True
+49,Audrey marks,whatchamacallit,1.63,True
+50,Xayne Blair,Hershey's Cookies N Creme,6.36,True
+51,Corban Saylor,M&M's,1.48,True
+52,Langston,Sour Patch Kids Watermelon Soft Candy,1.0,True
+53,Allan,Chocolate Chip Cookies,3.0,True
+54,Kim,Hershey's Chocolate,0.88,True
+55,Bryce Bland,Good and Plenty,1.48,True
+56,Troy,Peanut M&Ms share size,2.09,True
+57,shaheim,Candy Pumkins,2.28,True
+58,jasiah waxton,REESE'S Miniatures ,5.48,True
+59,edaevion,KitKat,0.82,True
+60,Hong Rot,Candy Corn,1.99,True
+61,Ethan Morse,reese's take 5,0.99,True
+62,Blake Tippmann,Reese's,0.99,True
+63,Elijah Kite,Twix,1.06,True
+64,Nick Schuhmacher,Kit Kat,1.06,True
+65,Kevin Nguyen,Kit Kats,1.06,True
+66,Chase McCarel,tootsie pop,1.06,True
+67,Eja,Kit Kat,1.06,True
+68,Sarah Martinez,Skittles,1.06,True
+69,Gabriel Moore,jelly beans,0.99,True
+70,brianna,kitkats,0.99,True
+71,Cathy Wise,Snickers,1.99,True
+72,alexis,Crunch Chocolate Bar,1.06,True
+73,Audrey marks,skittles,0.99,True
+74,Xayne Blair,Kit Kats,0.99,True
+75,Corban Saylor,Reeses,1.06,True
+76,Langston,reese's,1.99,True
+77,Allan,snickers,1.99,True
+78,Kim,Kitkat,1.06,True
+79,Bryce Bland,Snickers,0.99,True
+80,Troy,Nerds,0.99,True
+81,shaheim,sour patch kids,0.99,True
+82,jasiah waxton,Twix,0.99,True
+83,edaevion,butter finger,1.99,True
+84,Damien,Reese's,1.99,True
+85,adalynn gilman,3 musketeers,1.99,True
+86,Noah Papenbrock,Swedish Fish,1.06,True
+87,Mrwan,KitKat,1.06,True
+88,Trenton Ly,guava candy,1.06,True
+89,alexander kauffman,Hershey's candy bar,1.06,True
+90,William Espich,KitKat,1.06,True
+91,Andres H,Gummies,1.06,True
+92,Ibrahim Nokour,swedish fish,1.06,True
+93,Kevin Carter,Twix,1.06,True
+94,braniah,almond snikers,1.06,True
+95,Tate Rex,Kit kats,1.06,True
+96,faith,Kit Kat,0.99,True
+97,Juan Ruiz,Snickers,1.06,True
+98,Chris McCalla,3 Musketeers,1.06,True
+99,Riley Wilds,Gummy Bears,1.06,True
+100,Christian Rogers,Twix,1.06,True
+101,Leo,Skittles,1.06,True
+102,Nor Aisa Binti Abdul Molna,Crunch,0.99,True
+103,Sa Hay,Hershey,0.99,True
+104,Grant Simpson,Reeses,1.99,True
+105,maya,watermelon sour patch kids,1.99,True
+106,Jaxon Worrell,Jolly Ranchers,0.99,True
+107,Emmett,take 5,0.99,True
+108,Michael Drane,Trolli sour gummy worms,0.99,True
+109,Sean Wilson,Mike N Ikes or Skittles,1.99,True
+110,izzy,gummy bears,1.99,True
+111,brina,reeses,1.99,True
+112,kennedy ledbbeter,almond heresy,1.99,True
